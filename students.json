@@ -1,0 +1,1226 @@
+[
+  {
+    "nid_hash": "123174dd728a5f10585b2ada8cb60190a9d3d8fa3f2f5f0e2bf0368e774e4d84",
+    "name": "ابراهيم اباكار علي آدم",
+    "grades": {
+      "الواجبات": 10,
+      "البحوث": 5,
+      "الأنشطة الصفية": 10,
+      "النشاط العملي": 10
+    },
+    "attendance": {
+      "absent": 1
+    },
+    "notes": "لا يوجد"
+  },
+  {
+    "nid_hash": "a62214377824b2548379a2c92e467c4676504c2ee4f147a32b72c37251f21848",
+    "name": "ابراهيم محمد بدر باجري",
+    "grades": {
+      "الواجبات": 10,
+      "البحوث": 5,
+      "الأنشطة الصفية": 10,
+      "النشاط العملي": 10
+    },
+    "attendance": {
+      "absent": 1
+    },
+    "notes": "لا يوجد"
+  },
+  {
+    "nid_hash": "c11f3ed0488e8b474f6d71faa55f070d477cb36b4439facd86586f17bf0c7a52",
+    "name": "احمد محمد صالح الحبشي",
+    "grades": {
+      "الواجبات": 10,
+      "البحوث": 0,
+      "الأنشطة الصفية": 10,
+      "النشاط العملي": 1
+    },
+    "attendance": {
+      "absent": 0
+    },
+    "notes": "لم يسلم البحث، لم يحضر أوراق العمل"
+  },
+  {
+    "nid_hash": "a68b2cd1323795483f8d417977c219255cea3df3a776000bf103df823b790331",
+    "name": "اصيل احمد محمد مجاهد",
+    "grades": {
+      "الواجبات": 10,
+      "البحوث": 5,
+      "الأنشطة الصفية": 10,
+      "النشاط العملي": 10
+    },
+    "attendance": {
+      "absent": 1
+    },
+    "notes": "لا يوجد"
+  },
+  {
+    "nid_hash": "329ce8c845c80dd060c34662175b0238e949adb323f1ab3ad839a78f2a74fbc4",
+    "name": "الياس حبيب سالم الشهري",
+    "grades": {
+      "الواجبات": 10,
+      "البحوث": 5,
+      "الأنشطة الصفية": 10,
+      "النشاط العملي": 10
+    },
+    "attendance": {
+      "absent": 1
+    },
+    "notes": "لا يوجد"
+  },
+  {
+    "nid_hash": "516a09246cd984c691a8a6e19c199555385e69bc48864ca2128206db2a310fd7",
+    "name": "اياد ادم على سعيد",
+    "grades": {
+      "الواجبات": 10,
+      "البحوث": 0,
+      "الأنشطة الصفية": 10,
+      "النشاط العملي": 1
+    },
+    "attendance": {
+      "absent": 1
+    },
+    "notes": "لم يسلم البحث، لم يحضر أوراق العمل"
+  },
+  {
+    "nid_hash": "fd7a223eec87a392e3f804586e0d08f2846d82aaaa765b42436bbfc7991b9127",
+    "name": "تركي وليد محمد البيشي",
+    "grades": {
+      "الواجبات": 10,
+      "البحوث": 0,
+      "الأنشطة الصفية": 10,
+      "النشاط العملي": 1
+    },
+    "attendance": {
+      "absent": 1
+    },
+    "notes": "لم يسلم البحث، لم يحضر أوراق العمل"
+  },
+  {
+    "nid_hash": "7e8350c334247c93056303ec336d63c73509c15c1ef23d8ee9ab4de8884a1889",
+    "name": "حسام حسن عبده صعب",
+    "grades": {
+      "الواجبات": 10,
+      "البحوث": 0,
+      "الأنشطة الصفية": 10,
+      "النشاط العملي": 1
+    },
+    "attendance": {
+      "absent": 3
+    },
+    "notes": "لم يسلم البحث، لم يحضر أوراق العمل"
+  },
+  {
+    "nid_hash": "cf2400a1814e8ce649b487c5cdf0d77663f37f70fc038dc0db3335457a1c5bcf",
+    "name": "حسام محمد حسن مقري",
+    "grades": {
+      "الواجبات": 10,
+      "البحوث": 0,
+      "الأنشطة الصفية": 10,
+      "النشاط العملي": 10
+    },
+    "attendance": {
+      "absent": 1
+    },
+    "notes": "لم يسلم البحث."
+  },
+  {
+    "nid_hash": "028036de94d8d225fdfad3cfa6070e36cae90aa3d131122aec3e084a15a54936",
+    "name": "خالد غازي علي المحمادي",
+    "grades": {
+      "الواجبات": 10,
+      "البحوث": 0,
+      "الأنشطة الصفية": 10,
+      "النشاط العملي": 1
+    },
+    "attendance": {
+      "absent": 1
+    },
+    "notes": "لم يسلم البحث، لم يحضر أوراق العمل."
+  },
+  {
+    "nid_hash": "80a9b971f6647aef70f942851603e76a3deb0939d3ab9a631d400c439334ec32",
+    "name": "عامر بني امين عبد الامين فتح علي",
+    "grades": {
+      "الواجبات": 5,
+      "البحوث": 0,
+      "الأنشطة الصفية": 5,
+      "النشاط العملي": 1
+    },
+    "attendance": {
+      "absent": 1
+    },
+    "notes": "لم يسلم البحث، لم يحضر أوراق العمل."
+  },
+  {
+    "nid_hash": "1579a97f0747be7b8d4b93092a8ca54d8e0bc0d25165626ee123ab0cfbfbd71c",
+    "name": "عبد الباري الياس محفوظ الزبيدى",
+    "grades": {
+      "الواجبات": 10,
+      "البحوث": 5,
+      "الأنشطة الصفية": 10,
+      "النشاط العملي": 10
+    },
+    "attendance": {
+      "absent": 0
+    },
+    "notes": "لا يوجد"
+  },
+  {
+    "nid_hash": "9c562e39df538fa5fd34ee84ec099ed150a7bd454b7bbd5257b0140611255c30",
+    "name": "عبدالعزيز حسن احمد مجرشي",
+    "grades": {
+      "الواجبات": 10,
+      "البحوث": 0,
+      "الأنشطة الصفية": 10,
+      "النشاط العملي": 10
+    },
+    "attendance": {
+      "absent": 1
+    },
+    "notes": "لم يسلم البحث."
+  },
+  {
+    "nid_hash": "f6ce592624a02c8484aa9ba7b1c7127f71525eaa5e70f0cd114587120bc068a4",
+    "name": "عبدالله ياسر عبدالله محمد",
+    "grades": {
+      "الواجبات": 10,
+      "البحوث": 0,
+      "الأنشطة الصفية": 10,
+      "النشاط العملي": 10
+    },
+    "attendance": {
+      "absent": 0
+    },
+    "notes": "لم يسلم البحث."
+  },
+  {
+    "nid_hash": "107b91bc9d391475c492e9ffb3430ec82381dd027411bda85f3f03c01f89be75",
+    "name": "عبدالمؤمن امان - عبدالمؤمن",
+    "grades": {
+      "الواجبات": 10,
+      "البحوث": 5,
+      "الأنشطة الصفية": 10,
+      "النشاط العملي": 10
+    },
+    "attendance": {
+      "absent": 0
+    },
+    "notes": "لا يوجد"
+  },
+  {
+    "nid_hash": "a37e6b753d9c8a6611ba72020168e26c7c6aafed7e52ebac2f29520d245096af",
+    "name": "علي سالم عيظه بن عنبر",
+    "grades": {
+      "الواجبات": 10,
+      "البحوث": 5,
+      "الأنشطة الصفية": 10,
+      "النشاط العملي": 10
+    },
+    "attendance": {
+      "absent": 0
+    },
+    "notes": "لا يوجد"
+  },
+  {
+    "nid_hash": "778bc8b398ac486bcdca68e93db117e4d307f87edcf35a4a2ccf248fa7d058b0",
+    "name": "علي محمد علي العمودي",
+    "grades": {
+      "الواجبات": 10,
+      "البحوث": 5,
+      "الأنشطة الصفية": 10,
+      "النشاط العملي": 10
+    },
+    "attendance": {
+      "absent": 1
+    },
+    "notes": "لا يوجد"
+  },
+  {
+    "nid_hash": "06b3bb05f02cdeb1723823d7d7910d6eac71b4fd692ac29949cb3426569ba810",
+    "name": "عماد حميد حسين - عبدالخالق",
+    "grades": {
+      "الواجبات": 10,
+      "البحوث": 0,
+      "الأنشطة الصفية": 10,
+      "النشاط العملي": 10
+    },
+    "attendance": {
+      "absent": 0
+    },
+    "notes": "لم يسلم البحث."
+  },
+  {
+    "nid_hash": "51e69852c966ab2b396ffc62b80f8f837e9afb2851eb8e00f9a929a83bcdbe4b",
+    "name": "فراس علي اسماعيل عامر",
+    "grades": {
+      "الواجبات": 10,
+      "البحوث": 0,
+      "الأنشطة الصفية": 10,
+      "النشاط العملي": 10
+    },
+    "attendance": {
+      "absent": 0
+    },
+    "notes": "لم يسلم البحث."
+  },
+  {
+    "nid_hash": "999f6fa56e94ced8ec8f90a99270bc48d6ab88d5ec6c7535e3419526bac64e3d",
+    "name": "قاسم حسين محمد دغريري",
+    "grades": {
+      "الواجبات": 1,
+      "البحوث": 0,
+      "الأنشطة الصفية": 1,
+      "النشاط العملي": 1
+    },
+    "attendance": {
+      "absent": 5
+    },
+    "notes": "لم يسلم البحث، لم يحضر أوراق العمل، ارجو الاهتمام."
+  },
+  {
+    "nid_hash": "f1c46aacc00478dfb12be5d6abe33af61986496d3a653069a889df6d99a3f02c",
+    "name": "مازن عبده ابراهيم الجبير",
+    "grades": {
+      "الواجبات": 10,
+      "البحوث": 0,
+      "الأنشطة الصفية": 10,
+      "النشاط العملي": 10
+    },
+    "attendance": {
+      "absent": 0
+    },
+    "notes": "لم يسلم البحث."
+  },
+  {
+    "nid_hash": "de5ec865ae750db7ad0b85cbe361ed772b64b93fa14c02c05858b21cb9e7835a",
+    "name": "محسن ابراهيم محسن محمد بن عزان",
+    "grades": {
+      "الواجبات": 8,
+      "البحوث": 0,
+      "الأنشطة الصفية": 10,
+      "النشاط العملي": 10
+    },
+    "attendance": {
+      "absent": 1
+    },
+    "notes": "لم يسلم البحث."
+  },
+  {
+    "nid_hash": "21066b99e30c1750c13aa09fd351e8ee4b907d704dabcf25ad4816a455502d95",
+    "name": "محسن محمد محسن علي",
+    "grades": {
+      "الواجبات": 10,
+      "البحوث": 5,
+      "الأنشطة الصفية": 10,
+      "النشاط العملي": 10
+    },
+    "attendance": {
+      "absent": 0
+    },
+    "notes": "لا يوجد"
+  },
+  {
+    "nid_hash": "c6188c25758d7990feef95447e3d9edcaa709601125a4b66f1ef5d20c7df2705",
+    "name": "محمد أبو الطيب - حسين علي",
+    "grades": {
+      "الواجبات": 10,
+      "البحوث": 0,
+      "الأنشطة الصفية": 10,
+      "النشاط العملي": 10
+    },
+    "attendance": {
+      "absent": 0
+    },
+    "notes": "لم يسلم البحث."
+  },
+  {
+    "nid_hash": "405b0759432656f3c113416dae19d0d78015168fb95138ab77b99bba036464c5",
+    "name": "محمد احمد صفوت زينو",
+    "grades": {
+      "الواجبات": 10,
+      "البحوث": 0,
+      "الأنشطة الصفية": 10,
+      "النشاط العملي": 10
+    },
+    "attendance": {
+      "absent": 0
+    },
+    "notes": "لم يسلم البحث."
+  },
+  {
+    "nid_hash": "2b1fe9703a44cbdd6a8b74551d5d77c76db11d4caf6786d52e5e2c32278bf625",
+    "name": "محمد خالد احمد عماد",
+    "grades": {
+      "الواجبات": 10,
+      "البحوث": 5,
+      "الأنشطة الصفية": 10,
+      "النشاط العملي": 10
+    },
+    "attendance": {
+      "absent": 0
+    },
+    "notes": "لا يوجد"
+  },
+  {
+    "nid_hash": "59b7789f33cad35e800513220cd7c9759e902903a0f3ca867184539b4f4729ab",
+    "name": "محمد صالح عمر جابر",
+    "grades": {
+      "الواجبات": 10,
+      "البحوث": 5,
+      "الأنشطة الصفية": 10,
+      "النشاط العملي": 10
+    },
+    "attendance": {
+      "absent": 0
+    },
+    "notes": "لا يوجد"
+  },
+  {
+    "nid_hash": "81799c6a3524e6ef596c4b851a4a41c820c7b44a7b25cf1648fa33e7a7845331",
+    "name": "محمد عبدالله علي الغامدى",
+    "grades": {
+      "الواجبات": 10,
+      "البحوث": 0,
+      "الأنشطة الصفية": 10,
+      "النشاط العملي": 10
+    },
+    "attendance": {
+      "absent": 1
+    },
+    "notes": "لم يسلم البحث."
+  },
+  {
+    "nid_hash": "c64a960f12486b26dd09f9b9495015f969cc50ce9d636b8727ab457ed0c8946d",
+    "name": "محمد محمد أيوب خان حاجي عبدالولي",
+    "grades": {
+      "الواجبات": 0,
+      "البحوث": 0,
+      "الأنشطة الصفية": 0,
+      "النشاط العملي": 0
+    },
+    "attendance": {
+      "absent": 0
+    },
+    "notes": "لم يحضر اى حصة"
+  },
+  {
+    "nid_hash": "276b6b9b588db4fcf0d36cda2c6ab2f92d6620c95c0a6a3f385caa3b018fec75",
+    "name": "محمد ناصر عبدالله صالح",
+    "grades": {
+      "الواجبات": 10,
+      "البحوث": 0,
+      "الأنشطة الصفية": 10,
+      "النشاط العملي": 10
+    },
+    "attendance": {
+      "absent": 0
+    },
+    "notes": "لم يسلم البحث."
+  },
+  {
+    "nid_hash": "06cb0053b0ef49aba8f02e148b8950a44fe6f3ab07ba33c4f2d86ff9bfdb6070",
+    "name": "محمد هشام عزي عبدالرحمن",
+    "grades": {
+      "الواجبات": 10,
+      "البحوث": 0,
+      "الأنشطة الصفية": 10,
+      "النشاط العملي": 10
+    },
+    "attendance": {
+      "absent": 0
+    },
+    "notes": "لم يسلم البحث."
+  },
+  {
+    "nid_hash": "6d59e0a3f2f2118636f295815236be2bc382ae6923ad4dff00bf49e94b3d6fc6",
+    "name": "مشعل اسماعيل عبدالله وصايا",
+    "grades": {
+      "الواجبات": 10,
+      "البحوث": 5,
+      "الأنشطة الصفية": 10,
+      "النشاط العملي": 10
+    },
+    "attendance": {
+      "absent": 1
+    },
+    "notes": "لا يوجد"
+  },
+  {
+    "nid_hash": "3c14f0053e23df30e29dab9f0b1e3cbaca43991ec4d831729bc1e6a77c0a1eb2",
+    "name": "موسى متعب بن موسى آل غبساء",
+    "grades": {
+      "الواجبات": 10,
+      "البحوث": 5,
+      "الأنشطة الصفية": 10,
+      "النشاط العملي": 10
+    },
+    "attendance": {
+      "absent": 0
+    },
+    "notes": "لا يوجد"
+  },
+  {
+    "nid_hash": "6ed43e50651a94e4c0d3e39a0cadcca8357f5fff08166b0323b75ff350abb833",
+    "name": "وضاح سرور علي عبدالله",
+    "grades": {
+      "الواجبات": 10,
+      "البحوث": 5,
+      "الأنشطة الصفية": 10,
+      "النشاط العملي": 10
+    },
+    "attendance": {
+      "absent": 0
+    },
+    "notes": "لا يوجد"
+  },
+  {
+    "nid_hash": "c284ff84d38d6f742208860c737cbc2f712fb1b746da32ba2d8b29c93256e7b7",
+    "name": "وليد علي يحي علي",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": "اعتقد طالب جديد في الفصل"
+  },
+  {
+    "nid_hash": "9408864713fbf1c81833a91ba268fa4bafcb9e7b65c7e15de780db9d805d63e4",
+    "name": "يزن عبدالله يحي الواعظي",
+    "grades": {
+      "الواجبات": 10,
+      "البحوث": 5,
+      "الأنشطة الصفية": 10,
+      "النشاط العملي": 10
+    },
+    "attendance": {
+      "absent": 1
+    },
+    "notes": "لا يوجد"
+  },
+  {
+    "nid_hash": "0b1f8cd460eac393db326de14c59d08cf874b3a060175bd4a50f94edfe65410a",
+    "name": "أحمد شوقي عبدالواسع محمد",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "d3d09ffbbdf01e477bc9e8cc85320cc4e1151a61cac7bc797f899a0ccb538ad4",
+    "name": "أحمد محمد سعد محبوب",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "720ef7989144992951a6e3e7720a1517435f7e5d8eb8b4f64caf76ce263dd220",
+    "name": "احمد اعجاز احمد خان",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "38fab5546b404e4b5576ecd067c1067224f8401eb6e022de8458892866b9ee35",
+    "name": "احمد عادل سعيد علي",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "3250b077a59b0c4e4a813774b6d21b986be579bb4d07b93a9900d42252b30211",
+    "name": "اياس علاء عمر بانافع العولقي",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "2193f7b32858f9ac82098829d31cf122f2331d803079eda2bdbabf6d57c1e5e2",
+    "name": "جواد جهاد محمد مطلق",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "2f39c9150a5c4b55ce911e18702d2a5154423902e5cebf9441545df8c38d454c",
+    "name": "حسام عادل عياش الصبياني",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "4dc9dd1e77aa90e8d93bfe58894743ca55d6f338d6dbff256fd9adbc5f93dfa0",
+    "name": "حسين صالح علي السيلاني",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "4fe757e42a6952fb52ed1d9ae1f6e949379abc8992b4f6af9291a83375e67ab6",
+    "name": "راشد نبيل راشد عبدالله",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "5d363f1fc270d52343e3a4421a5fe86f6262411efd8de3335b173cc44e1cdeec",
+    "name": "زياد احمد سعد خميس",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "bc2c5f76ab1b9f5297477751bac04a33f28baa7614a4aff3d6a365f29e3bccaa",
+    "name": "سعيد عادل عمر الحداد",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "f65036ad2041f1ac4ba55c9bc611f967d8314ce3dfa19875bac0b6f6c331f097",
+    "name": "سلطان سعيد كمال كمال",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "732ffc5b3749ea1276f39361b44f1612aac21e59e747af03cb420c564c054048",
+    "name": "سلطان محمد علي الغامدي",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "a13f140af578cffff6d38b3ccecb61e6815ec9083f1cd1d0b0192f79a0efe0e6",
+    "name": "سهيل عبدالله مظهر ابوطالب",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "46b6b3888b58bc845e6c68c8306f2896faf3df22634018f9fd98393a2a7e092d",
+    "name": "شبيب عبدالله حسين سنان",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "ca5e52e16beec023143a38106152fa72c5f182980a65402ce555808003443bec",
+    "name": "صديق عبد الرحمن عباس عبد الله",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "d57803aedbb22c57e06c874fb20ffaa8191ec2f29e5da36e80676f3805bb7c7d",
+    "name": "عامر هيثم عبدالقادر عبده علي",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "6fe8d6525032b1ed93d337859ca583341eaf227aec0fb9fdb79d520572be7f3e",
+    "name": "عبدالرحمن حسين علي احمد",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "e6cd621d48af89a6703a9966880035d43625430262a848ca724cb36b44b3dfaa",
+    "name": "عبدالرحمن عبدالله عبدالرحمن خزام",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "a5817f660dc12cb77725274700be8bffa7e3363ab7212f9773a8db3d31d5f82c",
+    "name": "عبدالرحمن ناصر محمد بهلول",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "e7a01635a876a7745d0a6b2b68432af67b171d456aaf69eb9ec311a0b9545e92",
+    "name": "عبدالرحيم عبدالله عابد العقيبي",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "15733b6bf896548dc67a5937ed6a1437aa3f2faf1439ae54c483c076f15877c7",
+    "name": "عبدالله محمد زين عبدالله",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "ed67a7eefe452f254605e1cfcc202d725beb2eed10f7b690a13e6c929de00b4d",
+    "name": "عبدالله محمد عبدالله باصريح",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "7b2120a19bf5fafe4f1474e7c51b9f4e40433f4de6311f6af65417bd50c5ccce",
+    "name": "عبدالله محمد قائد المقدم",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "9c252ff5f19ba98a62066c57d9c0e67233a99ebf9f97c45b90f8c94bc3e5ac56",
+    "name": "عدي صدام حسين المرهبي",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "e2a166c67b2276139e226fe53313ecd533e527e226a60da6a8e0fcf236f4c4d2",
+    "name": "علي طارق جبريل صباحي",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "702c2a646783daa27706846606f781d37c5aa6a81c8a647a7212c1eebf15d253",
+    "name": "فارس رمزي علي عبدالله",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "5f2b5a112d30ee41c937bd63fdfdf473fb2684dd4a8ae6b696989db80f18d054",
+    "name": "مؤيد محمد احمد العطار",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "e0934c1e9ee83d9c097a2ede0e3992f5e7120fbef3b9ef1db8f629c0967ff54d",
+    "name": "مازن خالد مبارك خيشان",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "f55b56e4b7fbbc1e1ad1970bdee055750fab1868c8e5de53e93cbdc9944f9cf0",
+    "name": "محمد عبدالجليل محمد السحله",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "28ca63176df7d5a72c27d382926a04fd296ada9a08c78f70c9eebc14e38399d5",
+    "name": "محمد علي محمد سالم",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "e0a7cdc33f0fc2c2b8fef9d0bb14c753e1a7b45bc2271e14a105b745c5bb49fc",
+    "name": "محمد علي محمد مقري",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "ae46cbea07d2b8a4fb4ee8d77ac006f66bceb42c274b2033ce0c9bb32ef1bfa1",
+    "name": "محمد نصار منصور الغريب",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "fc8bd533ce50efa2f2a201f5c80d642c9f2418b1909775402475e6424eb11caa",
+    "name": "محمد ياسر عمر رميش",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "c13244ec52f05e63c3fac9b3ae9fd8fbcec3f0bebe29d76c750c525e7149f637",
+    "name": "وائل سعيد بن علي الغامدي",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "d27c7642f2030a0a6b98b5baa2157c193abb45563cc4a0d7a2d1c646ce319ae5",
+    "name": "يامن عارف عبدالفتاح سعيد",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "9dde25b747319b411b41660249abab9d5e8db116cafb9363cc70d2043b563d9e",
+    "name": "يحي شوعي يحي عمر",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "1d27c59ab14f319951e5260cf128859ecc33680e4f7d70bf0379bbd4f31c3184",
+    "name": "يزن محمد احمد قروي",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "77e61a155ae3b978b924258a37b974d53b594fe15d6eab97f843cbed665a16fa",
+    "name": "يونس خان - محمد",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "f309fb2487bd2acb7b6d93dfff93f47f667a410a7e279bf9d6c188be4738ff51",
+    "name": "ابراهيم خالد ابراهيم الشمراني",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "486ca9a2834fd691409442c04330c41fa97faf2242b0df68bf633c4dffb31b59",
+    "name": "اياد ماجد بن محمد الغامدي",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "85174cd3f3b4e1e25af90faf77a3134b8e124ca00503789126a4528034792943",
+    "name": "بدر يوسف ادم ادريس",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "210e7e94c54674517b177c75c5be51b029a6303b2f2dce2d89846376b946454b",
+    "name": "حمزه سامح سيد ابراهيم",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "5bf89846b8787ce628fa3a0b21d34a4086e9d74349369affbf808a099f84b053",
+    "name": "رضوان نور محمد روح الامين",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "f33805c9852aea3f0b83ac5076acdaac8705542e128ee205a60ada0272689d93",
+    "name": "ريان مراد  حسن",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "d7518bae0da8ae156b169935c79a6567fd1305a2d29201c4d0fd8dda80d8c860",
+    "name": "سالم عبدالله محمد الشمراني",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "a210d87cd47fb21825fcca31a0d3c1d5777a8c05d8c0faba31d06da243db6bd0",
+    "name": "سليمان فتيني احمد احمد",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "b5e59e9f14be8197b6c8e2c10e85b66360e9d03e1b6a308b825e6184c8c6c03d",
+    "name": "سمير بني امين عبدالامين فتح علي",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "a12fc9cdc47f7dc5cd552af20800e4fdb7a3f6a731f9808a2abe52f1da292b08",
+    "name": "صادق عبدالملك صادق المليكي",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "7207d904fa7ea8fe171a1063ef7fb0be8060bc7ec3d0c25f6b4efa2446ac397f",
+    "name": "صهيب ابو القاسم محمد عمر",
+    "grades": {
+      "الواجبات": 10,
+      "البحوث": 1,
+      "الأنشطة الصفية": 10,
+      "النشاط العملي": 10
+    },
+    "attendance": {
+      "absent": 0
+    },
+    "notes": "لا يوجد"
+  },
+  {
+    "nid_hash": "148c82ab1d7575582e372b1b110bc5c98a1309f90602b8d308dd8441a48ba0cf",
+    "name": "عائض محمد عائض الرفاعي الغامدي",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "a85bbe4c2eeae2344d031fa1075a0dd490e57c18fb8b2ee2b62d2c8bae58a54f",
+    "name": "عبد العزيز حميد احمد العماد",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "0d2308fa4e33e0abad95c40ccc3c695b4dcf7214334f07bee2cedab1df0e9d98",
+    "name": "عبدالرزاق محمد مهدي فارس",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "79417e3b7c2208e62db1600c4e3f183371526850236f2ce43c4a843ad08f0a5e",
+    "name": "عبدالصمد شكر الله خان رحمة الله خان",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "3fb3612491d3d5a0b09e7796eacb097f22683b725f8401d70f2becc95e2dc2b5",
+    "name": "عبدالعزيز علي عثمان فقيهي",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "99f349212f054667b6cdbbf776c5a5e8cf7060a307f0c1dc7e90896cd28a734f",
+    "name": "عبدالله حامد عبدالله حاج",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "4a6776057105bb5080689f842cfee4fcbe15b74078cd1242da8484cee5ec4cf4",
+    "name": "عبدالله عقيلي احمد الشيخي",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "a8f28e2462aea079536e69308f56805451187ed096c4078ea6d92f09fce54665",
+    "name": "عبدالله نبيل سعيد صالح",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "3a19331baa3ed6ae456f01fcdc5ab043000545d5a513abbcb50f50d28db41a87",
+    "name": "علي سالم علي قاسم",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "ec82a82977221a07ee2bb906b9ec778c754404b0a2cd41b0e5e0f0f4761360c2",
+    "name": "عماد موسى ادم محمد",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "572c28088ff8262343266131ae7c83695200ceb24ace0a0b56e6351a172f6c32",
+    "name": "عمر اميدو محمد نور",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "09387a32424f8b0ceef18edf41283fcde210d2f6f56aba9308ffcae6159b67f5",
+    "name": "فارس محمد تاجل مستوئي",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "389a1afaeeff221058963b5635967c0be351f9626c27c46c04c8a31ef68e00da",
+    "name": "فواز عبدالله صالح عبدالله",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "df5554a61028d0a9e97383df3bcc5eb9307062f6515802dd3cda90f084b8c17f",
+    "name": "قصي وليد جمعه ابوصبيح",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "b29714def8b9261879dd3cd5b80e312ba80b090eba298597dd6fc8356ff09fe2",
+    "name": "مؤيد منير علي بندر",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "9c67992e7193000095b4e441afc1be2fdf55f3a2bec071d6869ab731ef8048e3",
+    "name": "ماجد محمد جبرت الشمراني",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "29efeeb0789fdbd9c2b92d302d996e61a4cd5c094b7b69608696f920243854d9",
+    "name": "ماهر سالم جعبل الهمامي",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "166ea1d24b925d99d24a78feca5bc3b96375b13de4dc7c6906deb605c40ae32b",
+    "name": "محمد شرف علي الحمزي",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "7031759b74697c3b2a4f3a14e7c98e04cf9a7177e97641929950454213527b46",
+    "name": "محمد مازن عبده غالب",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "dcf5842540a4eaed734d183f3e3497581180355bc6df8e8ba4de364ebfe29c7d",
+    "name": "مشعل عادل بن عيسي الجيزاني",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "7080b9eeecd8d5cbdf767b1932b6510adfa1777cd1754fce7a837bd2ed5880d0",
+    "name": "مشعل وليد رجب رويشد",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "da559e8eef5e27b4de76c7ee9a87250e4755499ef9c224f896f2a0af006bd67c",
+    "name": "مصعب محسن علي الشاخ",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "fd5ada7ba2aeea690e09679c4d977f03bcd116d27a20f01df9fa13ba6be329fc",
+    "name": "مهند عبده يحي حكمي",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "fb18ef6694bc7466bdf5dd0fdf8271ba5697eadc71517b5b130a5405a1d393fe",
+    "name": "هلال عبدالله فتيني الصبياني",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "e00189ea9167c1b2d56dc31150d8a68d1db16516570be13cdf941d907c69a765",
+    "name": "وائل ماجد سعيد عبدالله",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "6865e92bb101983bf9013781be179c0a89b9fadc73d6ec3713ea19a92319bc99",
+    "name": "يزن فتحي اسماعيل محنبي",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "5a9c5997e796c0c10699cf78f606270655c8a579504a6302765cf9a582465f2b",
+    "name": "يزن محمد علي دمدم",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "d6c14668841dce6505c66094a8d8204c78021e25e44183a5dae4e5df22ba757f",
+    "name": "يوسف ادم يونس حسن",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "889745b731f7f31fe030c0058241d96074fb090b675d98b693c4e33fd0d0295d",
+    "name": "يوسف سعيد مبارك العكبري",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  },
+  {
+    "nid_hash": "bf0e4f0ee250bd2b614805b58fc51f9690c7a859052f5d0bb73b9d9854996cce",
+    "name": "يوسف محمود يوسف نور",
+    "grades": {},
+    "attendance": {
+      "absent": 0
+    },
+    "notes": ""
+  }
+]
