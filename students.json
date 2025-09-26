@@ -501,11 +501,16 @@
   {
     "nid_hash": "0b1f8cd460eac393db326de14c59d08cf874b3a060175bd4a50f94edfe65410a",
     "name": "أحمد شوقي عبدالواسع محمد",
-    "grades": {},
+    "grades": {
+      "الواجبات": 10,
+      "البحوث": 5,
+      "الأنشطة الصفية": 10,
+      "النشاط العملي": 10
+    },
     "attendance": {
       "absent": 0
     },
-    "notes": ""
+    "notes": "لا يوجد"
   },
   {
     "nid_hash": "d3d09ffbbdf01e477bc9e8cc85320cc4e1151a61cac7bc797f899a0ccb538ad4",
