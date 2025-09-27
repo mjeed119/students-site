@@ -515,11 +515,16 @@
   {
     "nid_hash": "d3d09ffbbdf01e477bc9e8cc85320cc4e1151a61cac7bc797f899a0ccb538ad4",
     "name": "أحمد محمد سعد محبوب",
-    "grades": {},
-    "attendance": {
-      "absent": 0
+    "grades": {
+      "الواجبات": 10,
+      "البحوث": 5,
+      "الأنشطة الصفية": 10,
+      "النشاط العملي": 10
     },
-    "notes": ""
+    "attendance": {
+      "absent": 1
+    },
+    "notes": "لا يوجد"
   },
   {
     "nid_hash": "720ef7989144992951a6e3e7720a1517435f7e5d8eb8b4f64caf76ce263dd220",
