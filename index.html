@@ -59,8 +59,70 @@
     <footer class="footer">
       <small style="text-align: center;">  عبدالمجيد الغامدي  </small>
     </footer>
+    <section id="card" class="card" hidden>
+      <header class="card-header">
+        <div>
+          <h2 id="studentName">—</h2>
+        </div>
+        <div class="badge" id="studentTotal">—</div>
+      </header>
+
+      <div class="grid">
+        <div class="box">
+          <h3>مكوّنات التقييم</h3>
+          <table id="gradesTable">
+            <thead><tr><th>المكوّن</th><th>الدرجة</th></tr></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+
+        <div class="box">
+          <h3>الغياب</h3>
+          <ul id="attendanceList" class="list"></ul>
+        </div>
+
+        <div class="box">
+          <h3>ملاحظات المعلم</h3>
+          <p id="notes">—</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ✨ ضيف الكود هنا -->
+    <!-- قسم اعتراضات الطالب السابقة -->
+    <section id="complaintsSection" class="box" hidden style="margin-top: 20px;">
+      <h3>اعتراضاتك السابقة</h3>
+      <p id="complaintsLoading" class="muted" hidden>جاري جلب الاعتراضات...</p>
+      <p id="complaintsNone" class="muted" hidden>لا توجد اعتراضات مسجلة برقم هويتك.</p>
+
+      <div class="table-wrap" style="overflow-x:auto;">
+        <table id="complaintsTable" style="width:100%; border-collapse: collapse;">
+          <thead>
+            <tr>
+              <th style="border-bottom:1px solid #ddd; padding:8px;">التاريخ</th>
+              <th style="border-bottom:1px solid #ddd; padding:8px;">اسم الطالب</th>
+              <th style="border-bottom:1px solid #ddd; padding:8px;">رقم الهوية</th>
+              <th style="border-bottom:1px solid #ddd; padding:8px;">موضوع الاعتراض</th>
+              <th style="border-bottom:1px solid #ddd; padding:8px;">تفاصيل الاعتراض</th>
+              <th style="border-bottom:1px solid #ddd; padding:8px;">حالة المعالجة</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+
+      <small class="muted">* “حالة المعالجة” عمود اختياري تضيفه يدويًا في Google Sheets.</small>
+    </section>
   </main>
 
   <script src="app.js"></script>
+      <!-- زر تعبئة نموذج الاعتراض -->
+      <div style="text-align: center; margin-top: 20px;">
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeIvg3cD2YHY-wfpuX6d15xXxjft2BVfpdKI0NRaRG3BY98yg/viewform?usp=header" 
+           target="_blank" 
+           style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: #fff; text-decoration: none; border-radius: 8px; font-weight: bold;">
+          تقديم اعتراض على الدرجات
+        </a>
+      </div>
 </body>
 </html>
